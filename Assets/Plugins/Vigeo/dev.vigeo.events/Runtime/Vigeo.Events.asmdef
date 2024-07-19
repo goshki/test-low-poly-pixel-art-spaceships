@@ -1,0 +1,16 @@
+{
+    "name": "Vigeo.Events",
+    "rootNamespace": "Vigeo.Events",
+    "references": [
+        "GUID:4681eb900567d411c8419e8ef23d5c36"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Vigeo.Staging",
+    "rootNamespace": "Vigeo",
+    "references": [
+        "Vigeo.Core",
+        "Vigeo.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

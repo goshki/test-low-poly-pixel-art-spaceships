@@ -1,0 +1,18 @@
+{
+    "name": "Vigeo.InControl",
+    "rootNamespace": "Vigeo.InControl",
+    "references": [
+        "Vigeo.Core",
+        "Vigeo.Unity",
+        "InControl"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
